@@ -1,0 +1,20 @@
+[
+    {
+        "title": "영어 번역기",
+        "content": "번역해줘.",
+        "category": "번역",
+        "favorite": false
+    },
+    {
+        "title": "파이썬 도우미",
+        "content": "코드 고쳐줘.",
+        "category": "코딩",
+        "favorite": true
+    },
+    {
+        "title": "요약 봇",
+        "content": "요약해줘.",
+        "category": "학습",
+        "favorite": true
+    }
+]
