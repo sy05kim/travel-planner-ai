@@ -19,10 +19,4 @@
 - **Environment**: `.env` 파일을 통한 API 키 보안 관리
 - **Libraries**: `requests`, `python-dotenv`, `argparse`
 
-## 🚀 시작하기
 
-### 1. 환경 변수 설정
-프로젝트 루트 폴더에 `.env` 파일을 생성하고 Kakao REST API 키를 입력합니다.
-```env
-KAKAO_API_KEY=your_kakao_api_key_here
-<img width="2144" height="1414" alt="image" src="https://github.com/user-attachments/assets/c87a5593-07ee-47ac-a027-29db53a1cb33" />
