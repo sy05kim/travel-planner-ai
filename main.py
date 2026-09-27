@@ -72,7 +72,7 @@ def show_prompts(prompts):
     
 def search_prompt(prompts):
     keyword = input("\n검색어(제목/내용/카테고리): ")
-  results = [p for p in prompts if keyword in p['title'] or keyword in p['content'] or keyword in p['category']]
+    results = [p for p in prompts if keyword in p['title'] or keyword in p['content'] or keyword in p['category']]
     print(f"\n--- '{keyword}' 검색 결과 ---")
     for p in results:
         fav = "⭐" if p.get("favorite") else "  "
