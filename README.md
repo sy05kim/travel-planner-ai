@@ -20,3 +20,5 @@
 - **Libraries**: `requests`, `python-dotenv`, `argparse`
 
 
+
+<img width="1430" height="498" alt="image" src="https://github.com/user-attachments/assets/5e62a047-1470-4300-b30d-5bb9849e3053" />
